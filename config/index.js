@@ -13,7 +13,7 @@ const config = {
     babel: {
       sourceMap: true,
       presets: [
-        'env','stage-0'
+        'env'
       ],
       plugins: [
         'transform-class-properties',
