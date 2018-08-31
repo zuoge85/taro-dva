@@ -8,7 +8,7 @@ export default {
   },
   effects: {
     * error({payload: e}, {all, call, put}) {
-      debugger;
+      // debugger;
       console.error("error:", e);
       // if (e instanceof String) {
       //   toast(`${e}`);
