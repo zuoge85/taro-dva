@@ -37,7 +37,9 @@ yarn run dev:weapp
 ### 4. 使用小程序开发工具打开dist 目录
 
 
+## 已知问题
 
+在h5端的上下拉刷新实现有问题
 
 
 我的blog地址: <https://www.forkjoin.org>
