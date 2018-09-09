@@ -75,12 +75,10 @@ class App extends Component {
   }
 
   render() {
-    return (
-      <Provider store={store}>
-        <Index/>
-      </Provider>
-    )
+    return (<Provider store={store}>
+      <Index/>
+    </Provider>);
   }
 }
 
-Taro.render(dvaApp.start(<App/>), document.getElementById('app'))
+Taro.render(<App/>, document.getElementById('app'))
