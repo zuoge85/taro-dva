@@ -1,7 +1,7 @@
 # 整合 taro-dvajs
 
 
-本项目整合了taro 和 dvajs,页面代码来至  [仿知乎小程序](https://github.com/NervJS/taro-zhihu-sample)
+本项目整合了taro 和 dvajs,页面代码来自  [仿知乎小程序](https://github.com/NervJS/taro-zhihu-sample)
 
 
 相关框架内容请去官网
