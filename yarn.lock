@@ -103,18 +103,18 @@
   version "0.7.0"
   resolved "http://registry.npm.taobao.org/@sindresorhus/is/download/@sindresorhus/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
 
-"@tarojs/async-await@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/async-await/download/@tarojs/async-await-1.0.0-beta.22.tgz#5dd9a0964e47fc2fa25d57138ebc25f2c6a1ef81"
+"@tarojs/async-await@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/async-await/download/@tarojs/async-await-1.0.0-beta.25.tgz#a73ddcd222998fe770d4faf3c2fb96266a74a943"
   dependencies:
     promise-polyfill "^7.1.2"
     regenerator-runtime "^0.11.1"
 
-"@tarojs/cli@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/cli/download/@tarojs/cli-1.0.0-beta.22.tgz#f1f55dd2e39adbc4aad35a499c8afb88bd28ed6f"
+"@tarojs/cli@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/cli/download/@tarojs/cli-1.0.0-beta.25.tgz#8405afa291e565304cec910b995c10ec48dffb39"
   dependencies:
-    "@tarojs/transformer-wx" "1.0.0-beta.22"
+    "@tarojs/transformer-wx" "1.0.0-beta.25"
     autoprefixer "^8.4.1"
     babel-core "^6.26.3"
     babel-generator "^6.26.1"
@@ -139,7 +139,7 @@
     minimatch "^3.0.4"
     ora "^2.0.0"
     postcss "^6.0.22"
-    postcss-pxtransform "1.0.0-beta.22"
+    postcss-pxtransform "1.0.0-beta.25"
     postcss-url "^7.3.2"
     prop-types "^15.6.2"
     resolve "^1.6.0"
@@ -149,9 +149,9 @@
     vinyl "^2.1.0"
     vinyl-fs "^3.0.2"
 
-"@tarojs/components@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/components/download/@tarojs/components-1.0.0-beta.22.tgz#589d574607488e82ecf1c31d5f691180867943c7"
+"@tarojs/components@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/components/download/@tarojs/components-1.0.0-beta.25.tgz#6e6e5451bd745cd46f55f69d0938e958f98dead8"
   dependencies:
     classnames "^2.2.5"
     nervjs "^1.3.0"
@@ -159,84 +159,84 @@
     react "16.3.0"
     weui "^1.1.2"
 
-"@tarojs/plugin-babel@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/plugin-babel/download/@tarojs/plugin-babel-1.0.0-beta.22.tgz#1c359ca9e547fdc3d2c2b5de553ac1ff6fbe87fa"
+"@tarojs/plugin-babel@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/plugin-babel/download/@tarojs/plugin-babel-1.0.0-beta.25.tgz#cc3732f5f33ec194165edce1cf858d98a7c8cdb0"
   dependencies:
     babel-core "^6.26.0"
 
-"@tarojs/plugin-csso@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/plugin-csso/download/@tarojs/plugin-csso-1.0.0-beta.22.tgz#caa1991f4ca728bf90a231c63bf2e37860028697"
+"@tarojs/plugin-csso@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/plugin-csso/download/@tarojs/plugin-csso-1.0.0-beta.25.tgz#9a77d212326c96f86c58c4c36c49c8d1ed6a9b6f"
   dependencies:
     csso "^3.5.0"
 
-"@tarojs/plugin-less@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/plugin-less/download/@tarojs/plugin-less-1.0.0-beta.22.tgz#b3bf0595c684ec9d1825762f015feee2c0c75c31"
+"@tarojs/plugin-less@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/plugin-less/download/@tarojs/plugin-less-1.0.0-beta.25.tgz#e473b2b99598002d85339ea2841c50c24c519839"
   dependencies:
     less "^3.0.4"
 
-"@tarojs/plugin-sass@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/plugin-sass/download/@tarojs/plugin-sass-1.0.0-beta.22.tgz#2f60b89dfe09fe7dc90cc4fa7681a1b5904d8484"
+"@tarojs/plugin-sass@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/plugin-sass/download/@tarojs/plugin-sass-1.0.0-beta.25.tgz#952107887a8a6e381c85ff2955b3751fe7fe5b95"
   dependencies:
     node-sass "^4.8.3"
 
-"@tarojs/plugin-uglifyjs@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/plugin-uglifyjs/download/@tarojs/plugin-uglifyjs-1.0.0-beta.22.tgz#1a9455f722f498917cd476173371cb78ed93eb6b"
+"@tarojs/plugin-uglifyjs@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/plugin-uglifyjs/download/@tarojs/plugin-uglifyjs-1.0.0-beta.25.tgz#3e57cef228f1467f239dd5d6c1f0823e7cfb62de"
   dependencies:
     uglify-js "^3.3.24"
 
-"@tarojs/redux-h5@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/redux-h5/download/@tarojs/redux-h5-1.0.0-beta.22.tgz#1067cd4c0d5b258b70acf8ccb930fbbe3ff1a853"
+"@tarojs/redux-h5@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/redux-h5/download/@tarojs/redux-h5-1.0.0-beta.25.tgz#006d0cfe18d0fbb49f5b23c7c9747301d6b1a774"
   dependencies:
-    "@tarojs/taro-h5" "1.0.0-beta.22"
+    "@tarojs/taro-h5" "1.0.0-beta.25"
     hoist-non-react-statics "^2.5.0"
     invariant "^2.2.4"
     loose-envify "^1.1.0"
     prop-types "^15.6.1"
     redux "^4.0.0"
 
-"@tarojs/redux@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/redux/download/@tarojs/redux-1.0.0-beta.22.tgz#91936c2142ecdd28cc696b0210c5da7ddebaf19a"
+"@tarojs/redux@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/redux/download/@tarojs/redux-1.0.0-beta.25.tgz#8b205ec1639202ee8c7a280d73214433335dae0a"
   dependencies:
-    "@tarojs/utils" "1.0.0-beta.22"
+    "@tarojs/utils" "1.0.0-beta.25"
 
-"@tarojs/router@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/router/download/@tarojs/router-1.0.0-beta.22.tgz#f4bc4a702026c537b70b95af54cc747a1df73e40"
+"@tarojs/router@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/router/download/@tarojs/router-1.0.0-beta.25.tgz#31e0127c61c957f67d3a5252e184499bc5da9946"
   dependencies:
-    "@tarojs/taro-h5" "1.0.0-beta.22"
+    "@tarojs/taro-h5" "1.0.0-beta.25"
 
-"@tarojs/taro-h5@1.0.0-beta.22", "@tarojs/taro-h5@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/taro-h5/download/@tarojs/taro-h5-1.0.0-beta.22.tgz#e0aa5205195e13e5de6b2bb06c268d21ea1f4a78"
+"@tarojs/taro-h5@1.0.0-beta.25", "@tarojs/taro-h5@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/taro-h5/download/@tarojs/taro-h5-1.0.0-beta.25.tgz#b54406560564f198b3e7537e1c07e2ce84247ba6"
   dependencies:
-    "@tarojs/taro" "1.0.0-beta.22"
+    "@tarojs/taro" "1.0.0-beta.25"
     jsonp-retry "^1.0.3"
     mobile-detect "^1.4.2"
     whatwg-fetch "^2.0.4"
 
-"@tarojs/taro-weapp@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/taro-weapp/download/@tarojs/taro-weapp-1.0.0-beta.22.tgz#6e6c17228794d37c7d308fcbd53c31a58d4aac3e"
+"@tarojs/taro-weapp@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/taro-weapp/download/@tarojs/taro-weapp-1.0.0-beta.25.tgz#7a043eacffe17ae5655a3def8aa7306881c53de5"
   dependencies:
-    "@tarojs/taro" "1.0.0-beta.22"
-    "@tarojs/utils" "1.0.0-beta.22"
+    "@tarojs/taro" "1.0.0-beta.25"
+    "@tarojs/utils" "1.0.0-beta.25"
     lodash "^4.17.10"
     prop-types "^15.6.1"
 
-"@tarojs/taro@1.0.0-beta.22", "@tarojs/taro@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/taro/download/@tarojs/taro-1.0.0-beta.22.tgz#d34dc1387e2edf00d5f44ab0fa02fdadf5e08bc6"
+"@tarojs/taro@1.0.0-beta.25", "@tarojs/taro@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/taro/download/@tarojs/taro-1.0.0-beta.25.tgz#b9fddefd5c4331d6815e3e5475ff59b0d5ba6830"
 
-"@tarojs/transformer-wx@1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/transformer-wx/download/@tarojs/transformer-wx-1.0.0-beta.22.tgz#d47ea2840678ed3315c22fb1b363fcc242eb8806"
+"@tarojs/transformer-wx@1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/transformer-wx/download/@tarojs/transformer-wx-1.0.0-beta.25.tgz#78e4f6e159291fae88302015f4a82b24333dec74"
   dependencies:
     "@babel/code-frame" "^7.0.0-beta.44"
     babel-core "^6.26.3"
@@ -250,13 +250,13 @@
     lodash "^4.17.5"
     typescript "^3.0.1"
 
-"@tarojs/utils@1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/utils/download/@tarojs/utils-1.0.0-beta.22.tgz#8f391b7a7b107e69ab0a0d428985438ff72f3263"
+"@tarojs/utils@1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/utils/download/@tarojs/utils-1.0.0-beta.25.tgz#3d7ed4ce485f27bdc2f99732fecc0b91d2441154"
 
-"@tarojs/webpack-runner@^1.0.0-beta.22":
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/@tarojs/webpack-runner/download/@tarojs/webpack-runner-1.0.0-beta.22.tgz#470a73d77a7b68f0c52aeaf01a6b9005ee31e698"
+"@tarojs/webpack-runner@^1.0.0-beta.25":
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/@tarojs/webpack-runner/download/@tarojs/webpack-runner-1.0.0-beta.25.tgz#7fbad26e937cd214ae8e16412a1a7a86e6160e89"
   dependencies:
     autoprefixer "^8.6.4"
     babel-core "^6.26.0"
@@ -279,8 +279,8 @@
     ora "^2.1.0"
     postcss-csso "^3.0.0"
     postcss-loader "^2.1.3"
-    postcss-plugin-constparse "1.0.0-beta.22"
-    postcss-pxtransform "1.0.0-beta.22"
+    postcss-plugin-constparse "1.0.0-beta.25"
+    postcss-pxtransform "1.0.0-beta.25"
     resolve-url-loader "^2.3.0"
     sass-loader "^7.0.3"
     style-loader "^0.21.0"
@@ -2486,11 +2486,11 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "http://registry.npm.taobao.org/escape-string-regexp/download/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-eslint-config-taro@^1.0.0-beta.22:
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/eslint-config-taro/download/eslint-config-taro-1.0.0-beta.22.tgz#2586029f9c2c34b02a136f8ddd16325c0e954d37"
+eslint-config-taro@^1.0.0-beta.25:
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/eslint-config-taro/download/eslint-config-taro-1.0.0-beta.25.tgz#8d98615bebc9e10e681c2e76209420a038b5aa0d"
   dependencies:
-    eslint-plugin-taro "1.0.0-beta.22"
+    eslint-plugin-taro "1.0.0-beta.25"
 
 eslint-import-resolver-node@^0.3.1:
   version "0.3.2"
@@ -2531,9 +2531,9 @@ eslint-plugin-react@^7.8.2:
     jsx-ast-utils "^2.0.1"
     prop-types "^15.6.2"
 
-eslint-plugin-taro@1.0.0-beta.22, eslint-plugin-taro@^1.0.0-beta.22:
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/eslint-plugin-taro/download/eslint-plugin-taro-1.0.0-beta.22.tgz#77802315f133538569f94e8b128e54102d6a54dd"
+eslint-plugin-taro@1.0.0-beta.25, eslint-plugin-taro@^1.0.0-beta.25:
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/eslint-plugin-taro/download/eslint-plugin-taro-1.0.0-beta.25.tgz#a33f210e32747a7e1e6af22975ef65e72e426af1"
   dependencies:
     has "^1.0.1"
 
@@ -5223,9 +5223,9 @@ postcss-modules-values@^1.3.0:
     icss-replace-symbols "^1.1.0"
     postcss "^6.0.1"
 
-postcss-plugin-constparse@1.0.0-beta.22:
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/postcss-plugin-constparse/download/postcss-plugin-constparse-1.0.0-beta.22.tgz#f53f08701d3352cf72bee892cc8e75d16dcdb5cd"
+postcss-plugin-constparse@1.0.0-beta.25:
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/postcss-plugin-constparse/download/postcss-plugin-constparse-1.0.0-beta.25.tgz#791c1d8bf51f16020b6333dbd80fd1dbcefec291"
   dependencies:
     postcss "^6.0.22"
 
@@ -5236,9 +5236,9 @@ postcss-pxtorem@^4.0.1:
     object-assign "^4.1.0"
     postcss "^5.2.10"
 
-postcss-pxtransform@1.0.0-beta.22:
-  version "1.0.0-beta.22"
-  resolved "http://registry.npm.taobao.org/postcss-pxtransform/download/postcss-pxtransform-1.0.0-beta.22.tgz#b456e5327fba744643774ba5d0db7fafc5c1e624"
+postcss-pxtransform@1.0.0-beta.25:
+  version "1.0.0-beta.25"
+  resolved "http://registry.npm.taobao.org/postcss-pxtransform/download/postcss-pxtransform-1.0.0-beta.25.tgz#51d75e9cc926801dace40284e8f80fc973340ac7"
   dependencies:
     postcss "^6.0.16"
     postcss-pxtorem "^4.0.1"
